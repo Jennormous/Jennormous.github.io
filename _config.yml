@@ -1,13 +1,12 @@
 title: "Jennefer Boudreau"
-email: 12thandclark@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
- In the works
-baseurl: "/" 
-url: "https://Jennormous.github.io/" 
+email: "12thandclark@gmail.com"
+description: "In the works"
+baseurl: "/"
+url: "https://Jennormous.github.io/"
 twitter_username: jennormous
-github_username:  Jennormous
+github_username: Jennormous
 
 sass:
   sass_dir: _sass
 
-icon: ./assets/img/icon.jpg
+icon: ./assets/img/jboudreau.jpg
